@@ -1,0 +1,5 @@
+{
+  "name": "Worker Attendance & Income Tracker",
+  "description": "A progressive web app to track daily work attendance, overtime, and automatically calculate monthly income for workers. It supports multiple user profiles and local data persistence.",
+  "requestFramePermissions": []
+}
